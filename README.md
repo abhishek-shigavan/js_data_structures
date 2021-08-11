@@ -22,3 +22,6 @@
             I)  DiceGameSimulation.js  :  Rolling dice multiple times & storing the results into map using dice no as a key & its occurence as its value.
                                           Tracking the count of occurence of dice no. Stop the simulation as winning condition (i.e 10 occurence) reaches.
                                           Finally Displaying maximum & minimum time occure dice no.
+            
+            II)  BirthMonth.js  :  Generating random month value of 50 students for year 92-93. Storing the students roll no having same birthday month aong with
+                                   month in key value pair. Finally displaying the store result.
